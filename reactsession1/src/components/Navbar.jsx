@@ -1,5 +1,3 @@
-import styles from "./Button..."
-
 function Navbar() {
   // simple functions
   return (
